@@ -19,7 +19,7 @@ Run the disassembler
 
   `>>> dis(hello.main)`
 
-The output is Python byte-code.
+The output is Python byimpote-code.
 
 This is instruction-level code but not native machine code.
 
